@@ -1,4 +1,10 @@
+# Where2Go
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Screenshots
+Other screenshots can be found in the "Screenshots" folder
+
+<img src="Screenshots/Homepage.png"><img src="Screenshots/Login.png"><img src="Screenshots/Profile.png">
 
 ## Available Scripts
 
@@ -66,5 +72,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# Where2Go
-# Where2Go
+
