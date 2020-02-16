@@ -80,7 +80,7 @@ export default class ProfileHeader extends React.Component {
 	}
 	render() {
 		const { title, description, isError, isLoading } = this.state;
-		Geocode.setApiKey("AIzaSyC_OkZ-QHKHXSdSKCgeIO1P5dtvgi2Gkrw");
+		set google API key here for geocoding //Geocode.setApiKey("");
 
 		let Location = (
 	      <PlacesAutocomplete value={this.state.address} onChange={this.handleChange} onSelect={this.handleSelect}>
